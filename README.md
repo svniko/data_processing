@@ -1,4 +1,4 @@
-# Additional materials for Python Data Processing course
+# Additional materials for Data Processing with Python course
 ## Lectures
 <p>1. <a href="https://github.com/svniko/data_processing/blob/main/notebooks/Lecture_1.ipynb">Notebook for Lecture 1</a><p>
 
