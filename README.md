@@ -2,5 +2,6 @@
 ## Lectures
 <p><a href="https://github.com/svniko/data_processing/blob/main/notebooks/Lecture_1_en.ipynb">Notebook for Lecture 1</a><p>
 <p><a href="https://github.com/svniko/data_processing/blob/main/Lectures/Lecture_1.pdf">Lecture 1</a><p>
+  
 ## Labs
 <p><a href="https://github.com/svniko/data_processing/blob/main/Labs/Lab_1_en.pdf">Laboratory work 1</a><p>
